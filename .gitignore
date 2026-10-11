@@ -8,6 +8,12 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Virtual environments
+.env/
+venv/
+.venv/
+env/
+
 # OS
 .DS_Store
 Thumbs.db
